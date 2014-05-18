@@ -1,0 +1,17 @@
+Dynamic Optimality
+Point Location
+-Ray shooting
+-Line sweep
+Range Searching
+-Range trees
+-Fractional cascading
+Predecessor/Successor
+Ordered File Maintenance
+-List Labeling
+-List order maintenance
+Least Common Ancestor
+Strings
+-Suffix tree/array
+Range Minimum Queries
+Lowest Common Ancestor
+Level Ancestor

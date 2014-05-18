@@ -1,0 +1,62 @@
+Persistence
+-Partial persistence
+-Full persistence
+-Confluent persistence
+-Functional persistence
+Retroactivity
+-Partial retroactivity
+-Full retroactivity
+-Nonoblivious retroactivity
+-Priority queues
+Dynamic Optimality
+-Splay trees
+-Performance theorems
+-Greedy algorithm
+-Wilber bounds
+-Signed greedy bounds
+-Tango trees
+Point Location
+-Ray shooting
+-Line sweep
+Range Searching
+-Orthogonal range searching
+-Range trees
+-Fractional cascading
+Kinetic Data Structures
+-Kinetic predecessor
+-Kinetic priority queues
+-Kinetic heap
+Dictinary Problem/Hashing
+-Universal hashing
+-Perfect hashing
+-Linear probling
+-Cuckoo hashing
+Predecessor/Successor (Comparison)
+Predecessor/Successor (Integers)
+-Van Emde Boas Trees
+-Indirection
+-X-fast tree
+-Y-fast tree
+-Fusion trees
+-Predecessor lower bounds
+-Round elimination
+Cache-Oblivious Problems
+-Scanning
+-Divide & Conquer
+-Sorting
+-Static data structures
+Ordered File Maintenance
+-List Labeling
+-List order maintenance
+Strings
+-Suffix tree/array
+Range Minimum Queries
+Least Common Ancestor
+Level Ancestor
+Succint
+-Survey
+-Binary tries
+-Rank and select
+Dynamic Connectivity
+-Link-cut trees
+-Euler-tour trees
